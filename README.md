@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cbrtf@deno/mod.js';
+import cbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cbrtf@v0.2.2-deno/mod.js';
 ```
 
 #### cbrtf( x )
@@ -81,7 +81,7 @@ v = cbrtf( NaN );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import cbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cbrtf@deno/mod.js';
+import cbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cbrtf@v0.2.2-deno/mod.js';
 
 var x;
 var i;
