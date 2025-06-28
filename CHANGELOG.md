@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2025-06-28)
 
 <section class="reverts">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`0240ed9`](https://github.com/stdlib-js/stdlib/commit/0240ed95c31c83898c7605781a2b73e508b8ef71) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`dd5765d`](https://github.com/stdlib-js/stdlib/commit/dd5765d771186bddbbc716d577bb94eafc0ac36b) - **docs:** replace manual `for` loop in examples [(#6607)](https://github.com/stdlib-js/stdlib/pull/6607) _(by Harsh)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`2db8e90`](https://github.com/stdlib-js/stdlib/commit/2db8e905c9b92be0062c8faafe79dbd626ce10f2) - **bench:** fix invalid array indexing [(#6434)](https://github.com/stdlib-js/stdlib/pull/6434) _(by Karan Anand)_
