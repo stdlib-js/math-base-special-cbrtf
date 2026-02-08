@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import cbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cbrtf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-cbrtf/tags). For example,
+
+```javascript
 import cbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cbrtf@v0.2.3-deno/mod.js';
 ```
 
@@ -82,7 +87,7 @@ v = cbrtf( NaN );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import cbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cbrtf@v0.2.3-deno/mod.js';
+import cbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cbrtf@deno/mod.js';
 
 var opts = {
     'dtype': 'float32'
